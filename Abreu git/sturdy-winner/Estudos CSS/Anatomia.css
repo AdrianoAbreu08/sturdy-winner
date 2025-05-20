@@ -1,0 +1,16 @@
+/*  
+    Anatomi
+
+    * Declaration
+    * Selector
+    * {} - context
+    * Properties
+    * Property values
+*/
+
+h1{
+    color: blue;
+    font-size: 60px;
+    letter-spacing: 2;
+    text-transform: uppercase;
+}
